@@ -1,0 +1,6 @@
+se/midlogic/bookingtransactions/controller/Transaction.class
+se/midlogic/bookingtransactions/service/TransactionService.class
+se/midlogic/bookingtransactions/service/CSVService.class
+se/midlogic/bookingtransactions/controller/TransactionController.class
+se/midlogic/bookingtransactions/BookingTransactionsApplication.class
+se/midlogic/bookingtransactions/model/User.class
